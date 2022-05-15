@@ -6,7 +6,7 @@ class Images {
   static const String cart_image = 'assets/images/cart.png';
   static const String home_image = 'assets/images/home.png';
   static const String logo_image = 'assets/images/logo.png';
-  static const String logo_with_name_image = 'assets/images/zo_logo.png';
+  static const String logo_with_name_image = 'assets/images/logo_with_name.png';
   static const String message_image = 'assets/images/message.png';
   static const String more_image = 'assets/images/more.png';
   static const String shopping_image = 'assets/images/shopping.png';
@@ -51,5 +51,4 @@ class Images {
   static const String map_marker = 'assets/images/location.png';
   static const String upload_image = 'assets/images/upload_image.png';
   static const String star = 'assets/images/star.png';
-  static const String enl = 'assets/images/en.png';
 }
